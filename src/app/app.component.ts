@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularTypescript';
+  aluno = {name: "Joao", isAprovado:false, isReprovado: true};
 }
